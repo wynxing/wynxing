@@ -111,5 +111,4 @@ Aims to check a claim against the cited paper and point at the supporting passag
 
 [Wynn's Save Point](https://wynn.myblog-site.workers.dev/)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [一个设计网站的经验思路](https://wynn.myblog-site.workers.dev/blog/designing-a-website/) · 2026-09-10- [72 小时，从零到一：一个实时同传项目的极限开发复盘](https://wynn.myblog-site.workers.dev/blog/72h-extreme-development-rethink/) · 2026-06-11- [在 AI Coding 时代，如何真正开始一个项目](https://wynn.myblog-site.workers.dev/blog/how-to-start-a-project-in-ai-era/) · 2026-05-30- [拆与不拆：模块拆分的判断依据](https://wynn.myblog-site.workers.dev/blog/when-to-split-modules/) · 2026-05-30<!-- BLOG-POST-LIST:END -->
