@@ -1,4 +1,13 @@
-<img src="https://github.com/wynxing.png" width="88" alt="Wynn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1d4ed8,100:0ea5e9&amp;height=200&amp;section=header&amp;text=Wynn&amp;fontSize=72&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35" alt="Wynn" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=C9D1D9&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;lines=%E4%BA%BA%E7%94%9F%E6%B8%B8%E6%88%8F%E5%8F%82%E4%B8%8E%E8%80%85;Playing+the+game+of+life;%E4%BA%8C%E8%B6%B3%E7%9B%B4%E7%AB%8B%E7%94%9F%E7%89%A9;Windows+desktop+tools;Rust+%C2%B7+Python+%C2%B7+TypeScript;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E8%AE%B0%E4%B8%8B%E6%B2%BF%E9%80%94" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=48&amp;lines=%E4%BA%BA%E7%94%9F%E6%B8%B8%E6%88%8F%E5%8F%82%E4%B8%8E%E8%80%85;Playing+the+game+of+life;%E4%BA%8C%E8%B6%B3%E7%9B%B4%E7%AB%8B%E7%94%9F%E7%89%A9;Windows+desktop+tools;Rust+%C2%B7+Python+%C2%B7+TypeScript;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E4%B9%9F%E8%AE%B0%E4%B8%8B%E6%B2%BF%E9%80%94" alt="人生游戏参与者 / Playing the game of life" />
+  </picture>
+</p>
 
 # Wynn
 
@@ -14,13 +23,14 @@ Windows desktop tools, a personal site, and programs that replay an agent run or
 
 ## 技术 / Stack
 
-桌面端主要是 Rust，同传工具用 Tauri。Agent 和图纸工具用 Python。个人站是 Astro 和 TypeScript。
+桌面端主要是 Rust，同传工具用 Tauri。Agent 和论文工具的界面用 Vue，服务用 Python。个人站是 Astro 和 TypeScript。
 
-![Rust](https://img.shields.io/badge/Rust-ce422b?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-bc52ee?style=flat-square&logo=astro&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24c8db?style=flat-square&logo=tauri&logoColor=111111)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,py,astro,tauri,vue&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,ts,py,astro,tauri,vue&amp;theme=light" alt="Rust, TypeScript, Python, Astro, Tauri, Vue" />
+  </picture>
+</p>
 
 ## 项目 / Projects
 
@@ -63,15 +73,43 @@ Aims to check a claim against the cited paper and point at the supporting passag
 
 ## GitHub
 
-<a href="https://github.com/wynxing">
+<p align="center">
+  <a href="https://github.com/wynxing">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wynxing&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=58a6ff" />
+      <img height="165" alt="GitHub stats for wynxing" src="https://github-readme-stats.vercel.app/api?username=wynxing&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a&amp;icon_color=0969da" />
+    </picture>
+  </a>
+  <a href="https://github.com/wynxing?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wynxing&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e" />
+      <img height="165" alt="Most used languages for wynxing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynxing&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wynxing">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wynxing&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=E6EDF3&amp;sideNums=C9D1D9&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E" />
+      <img height="195" alt="GitHub contribution streak for wynxing" src="https://streak-stats.demolab.com?user=wynxing&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=24292F&amp;sideNums=24292F&amp;currStreakLabel=57606A&amp;sideLabels=57606A&amp;dates=6E7781" />
+    </picture>
+  </a>
+</p>
+
+## 贡献 / Contributions
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wynxing&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=58a6ff" />
-    <img height="165" alt="GitHub stats for wynxing" src="https://github-readme-stats.vercel.app/api?username=wynxing&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a&amp;icon_color=0969da" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wynxing/wynxing/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wynxing/wynxing/output/github-contribution-grid-snake-light.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/wynxing/wynxing/output/github-contribution-grid-snake-light.svg" />
   </picture>
-</a>
-<a href="https://github.com/wynxing?tab=repositories">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wynxing&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e" />
-    <img height="165" alt="Most used languages for wynxing" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wynxing&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;bg_color=ffffff&amp;title_color=24292f&amp;text_color=57606a" />
-  </picture>
-</a>
+</p>
+
+## 文章 / Writing
+
+[Wynn's Save Point](https://wynn.myblog-site.workers.dev/)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

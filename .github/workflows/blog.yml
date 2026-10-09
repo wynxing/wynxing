@@ -1,0 +1,31 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    # Token pushes do not start a new run, and this skips a bot commit if they ever do.
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from Save Point
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://wynn.myblog-site.workers.dev/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) · $date"
+          date_format: "UTC:yyyy-mm-dd"
+          commit_message: "Update README with latest blog posts"
