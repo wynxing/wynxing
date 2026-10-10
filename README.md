@@ -9,18 +9,6 @@
   </picture>
 </p>
 
-# Wynn
-
-人生游戏参与者，二足直立生物。  
-Playing the game of life, on two feet.
-
-DGUT
-
-[Wynn's Save Point](https://wynn.myblog-site.workers.dev/) · [wynxing.github.io](https://wynxing.github.io/)
-
-写 Windows 桌面工具和个人站，也写能把 Agent 运行和论文引文重新核对一遍的程序。  
-Windows desktop tools, a personal site, and programs that replay an agent run or check a citation against its source.
-
 ## 技术 / Stack
 
 桌面端主要是 Rust，同传工具用 Tauri。Agent 和论文工具的界面用 Vue，服务用 Python。个人站是 Astro 和 TypeScript。
