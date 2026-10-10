@@ -11,8 +11,6 @@
 
 ## 技术 / Stack
 
-桌面端主要是 Rust，同传工具用 Tauri。Agent 和论文工具的界面用 Vue，服务用 Python。个人站是 Astro 和 TypeScript。
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,py,astro,tauri,vue&amp;theme=dark" />
